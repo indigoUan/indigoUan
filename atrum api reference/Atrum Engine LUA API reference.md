@@ -1,4 +1,4 @@
-> _[back to home page](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Modding%20with%20Atrum.md)_
+> _[back to the home page](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Modding%20with%20Atrum.md)_
 
 # Atrum (aka Atro) Engine LUA API reference
 [Official LUA documentation](http://www.lua.org/docs.html)  
