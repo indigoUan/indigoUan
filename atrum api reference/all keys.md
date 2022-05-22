@@ -1,4 +1,7 @@
-> _[back to home page](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Modding%20with%20Atrum.md)_
+> _[back to the home page](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Modding%20with%20Atrum.md)_
+> _[back to the LUA docs](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Atrum%20Engine%20LUA%20API%20reference.md)_
+
+_todo: sort these_
 
 * `graveaccent`
 * `a`
