@@ -13,7 +13,7 @@ For now only the folder `default/` works.
 ## Changing the options
 In the `assets/` folder there are `options.json` and `options.lua`.
 
-The first one contains the tabs, the options (`"name also used for saving"`, `"description"`, `"tab"`, `initial_value`, and eventual "meta data" for options that  
+The first one contains the tabs; the options (`"name also used for saving"`, `"description"`, `"tab"`, `initial_value`); and the eventual "meta data" for options that  
 aren't just `true`/`false`.
 
 The second one reads every option when it gets changed, and acts accordingly.
