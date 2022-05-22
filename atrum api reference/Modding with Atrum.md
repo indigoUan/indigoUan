@@ -13,8 +13,7 @@ For now only the folder `default/` works.
 ## Changing the options
 In the `assets/` folder there are `options.json` and `options.lua`.
 
-The first one contains the tabs; the options (`"name also used for saving"`, `"description"`, `"tab"`, `initial_value`); and the eventual "meta data" for options that  
-aren't just `true`/`false`.
+The first one contains the tabs; the options (`"name also used for saving"`, `"description"`, `"tab"`, `initial_value`); and the eventual "meta data" for options that aren't just `true`/`false`.
 
 The second one reads every option when it gets changed, and acts accordingly.
 
@@ -25,11 +24,9 @@ In here you will see two variables: `default_set_used` and `sets`: `default_set_
 Each array in `default_set_used` indicates specific milliseconds for each rating (Marvelous, Sick, Good, Bad, Shit, Miss).
 
 ## Custom script on note hit
-In the folder `assets/rating/` there is the file `logics.lua`, which contains a funciton that reads the rating (Marvelous, Sick, Good, Bad, Shit, Miss),  
-and runs a piece of script accordingly (increasing health, score, missing...).
+In the folder `assets/rating/` there is the file `logics.lua`, which contains a funciton that reads the rating (Marvelous, Sick, Good, Bad, Shit, Miss), and runs a piece of script accordingly (increasing health, score, missing...).
 
 ## LUA
 You can find the full API reference [here](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Atrum%20Engine%20LUA%20API%20reference.md).
 
-When the game starts a song, all LUA files in the `scripts/` folder and `modchart.lua` in the song chart folder get loaded, and the `main` function is called on  
-all of them.
+When the game starts a song, all LUA files in the `scripts/` folder and `modchart.lua` in the song chart folder get loaded, and the `main` function is called on all of them.
