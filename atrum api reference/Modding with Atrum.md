@@ -1,4 +1,4 @@
-This engine has a great amount of moddable features, which range from custom stagtes, to custom ratings.  
+This engine has a great amount of moddable features, which range from custom stages, to custom ratings.  
 In this reference I will go over:
 * Installing a mod
 * Changing the options
