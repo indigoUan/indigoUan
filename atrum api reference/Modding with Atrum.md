@@ -30,6 +30,6 @@ Each array in `default_set_used` indicates specific milliseconds for each rating
 In the folder `assets/rating/` there is the file `logics.lua`, which contains a funciton that reads the rating (Marvelous, Sick, Good, Bad, Shit, Miss), and runs a piece of script accordingly (increasing health, score, missing...).
 
 ## LUA
-You can find the full API reference [here](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Atrum%20Engine%20LUA%20API%20reference.md).
+You can find the full Atrum LUA API reference [here](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Atrum%20Engine%20LUA%20API%20reference.md).
 
 When the game starts a song, all LUA files in the `scripts/` folder and `modchart.lua` in the song chart folder get loaded, and the `main` function is called on all of them.
