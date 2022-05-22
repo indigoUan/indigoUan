@@ -8,6 +8,8 @@ In this reference I will go over:
 * Custom script on note hit
 * LUA
 
+***
+
 ## Installing a mod
 Much like the renowned Psych Engine, Atrum supports "mod folders", essentially you just put a folder in the `mods/` folder of the game, and it just kinda works.  
 For now only the folder `default/` works.
