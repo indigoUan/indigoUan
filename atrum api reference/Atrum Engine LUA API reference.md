@@ -3,7 +3,6 @@ _[home](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference
 [Official LUA documentation](http://www.lua.org/docs.html)  
 [Official LUA 5.1 (used in Atrum) documentation](http://www.lua.org/manual/5.1/)
 ***
-***
 
 # # commands
 \# commands are lines that get read once when the script is opened by the game:
