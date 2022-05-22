@@ -61,7 +61,8 @@ These are the only possible names:
 And anything else will return `false`.
 
 ## `keyPress(name:String)`; `keyHold(name:String)`; `keyLift(name:String)`
-They check `FlxG.keys.(justPressed/pressed/justReleased)."name"`.
+They check `FlxG.keys.(justPressed/pressed/justReleased)."name"`.  
+[These](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/all%20keys.md) are all the possible key names.
 
 ## `changeTickLength(duration_in_seconds:Float)`
 Changes the duration of a tick.
