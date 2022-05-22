@@ -1,7 +1,7 @@
 # Modding with Atrum (home page)
 
 This engine has a great amount of moddable features, which range from custom stages, to custom ratings.  
-In this reference I will go over:
+In this doc I will go over:
 * Installing a mod
 * Changing the options
 * Changing rating timings
