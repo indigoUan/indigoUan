@@ -3,97 +3,120 @@
 
 _todo: sort these_
 
-* `graveaccent`
-* `a`
-* `b`
-* `c`
-* `d`
-* `e`
-* `f`
-* `g`
-* `backspace`
-* `h`
-* `tab`
-* `i`
-* `j`
-* `k`
-* `l`
-* `enter`
-* `m`
-* `n`
-* `o`
-* `shift`
-* `p`
-* `control`
-* `q`
-* `alt`
-* `r`
-* `s`
-* `capslock`
-* `t`
-* `u`
-* `v`
-* `w`
-* `x`
-* `y`
-* `z`
-* `lbracket`
-* `escape`
-* `backslash`
-* `rbracket`
-* `quote`
-* `numpadzero`
-* `space`
-* `numpadone`
-* `pageup`
-* `numpadtwo`
-* `pagedown`
-* `numpadthree`
-* `end`
-* `numpadfour`
-* `home`
-* `numpadfive`
-* `left`
-* `numpadsix`
-* `up`
-* `numpadseven`
-* `right`
-* `numpadeight`
-* `down`
-* `numpadnine`
-* `numpadmultiply`
-* `numpadplus`
-* `numpadminus`
-* `printscreen`
-* `insert`
-* `numpadperiod`
-* `delete`
-* `f1`
-* `zero`
-* `f2`
-* `one`
-* `f3`
-* `two`
-* `f4`
-* `three`
-* `f5`
-* `four`
-* `f6`
-* `five`
-* `f7`
-* `six`
-* `f8`
-* `seven`
-* `f9`
-* `eight`
-* `f10`
-* `nine`
-* `f11`
-* `semicolon`
-* `f12`
-* `plus`
-* `comma`
-* `minus`
-* `any`
-* `period`
-* `slash`
+### Alphabet
+
+* `"a"`
+* `"b"`
+* `"c"`
+* `"d"`
+* `"e"`
+* `"f"`
+* `"g"`
+* `"h"`
+* `"i"`
+* `"j"`
+* `"k"`
+* `"l"`
+* `"m"`
+* `"n"`
+* `"o"`
+* `"p"`
+* `"q"`
+* `"r"`
+* `"s"`
+* `"t"`
+* `"u"`
+* `"v"`
+* `"w"`
+* `"x"`
+* `"y"`
+* `"z"`
+
+### Numbers
+
+* `"zero"`
+* `"numpadzero"`
+* `"one"`
+* `"numpadone"`
+* `"two"`
+* `"numpadtwo"`
+* `"three"`
+* `"numpadthree"`
+* `"four"`
+* `"numpadfour"`
+* `"five"`
+* `"numpadfive"`
+* `"six"`
+* `"numpadsix"`
+* `"seven"`
+* `"numpadseven"`
+* `"eight"`
+* `"numpadeight"`
+* `"nine"`
+* `"numpadnine"`
+
+### Mathematic operators
+
+* `"plus"`
+* `"numpadplus"`
+* `"minus"`
+* `"numpadminus"`
+* `"numpadmultiply"`
+* `"slash"`
+
+### Misc signs
+
+* `"period"`
+* `"numpadperiod"`
+* `"semicolon"`
+* `"comma"`
+* `"lbracket"`
+* `"rbracket"`
+* `"quote"`
+* `"graveaccent"`
+* `"backslash"`
+
+### Whitespaces and deletion
+
+* `"space"`
+* `"tab"`
+* `"delete"`
+* `"backspace"`
+
+### Arrows
+
+* `"left"`
+* `"up"`
+* `"right"`
+* `"down"`
+* `"pageup"`
+* `"pagedown"`
+* `"end"`
+
+### Functional
+
+* `"f1"`
+* `"f2"`
+* `"f3"`
+* `"f4"`
+* `"f5"`
+* `"f6"`
+* `"f7"`
+* `"f8"`
+* `"f9"`
+* `"f10"`
+* `"f11"`
+* `"f12"`
+* `"control"`
+* `"shift"`
+* `"capslock"`
+* `"alt"`  
+* `"enter"`
+* `"escape"`
+* `"insert"`
+* `"printscreen"`
+* `"home"`
+
+### Misc
+
+* `"any"`
