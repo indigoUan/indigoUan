@@ -1,4 +1,6 @@
-# Modding with Atrum (home page)
+> _this is the home page_
+
+# Modding with Atrum
 
 This engine has a great amount of moddable features, which range from custom stages, to custom ratings.  
 In this doc I will go over:
