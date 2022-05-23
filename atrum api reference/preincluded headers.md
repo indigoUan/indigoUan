@@ -2,7 +2,7 @@
 > _[back to the LUA docs](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/Atrum%20Engine%20LUA%20API%20reference.md)_
 ***
 
-# Preincluded heared LUA files of Atrum Engine
+# Pre-included header LUA files of Atrum Engine
 
 
 ## `"math"`
