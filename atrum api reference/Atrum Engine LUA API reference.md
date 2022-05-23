@@ -11,8 +11,9 @@
 
 ## `#include: "header_here" "other_header_here" [...]`
 This command takes the script in the scripts folder that has the given name; these are called "headers".  
-[These are some pre-included headers](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/preincluded%20headers.md).
 You can load as many as you want.
+
+[These are some pre-included headers](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/preincluded%20headers.md).
 
 ## `#ignore_cin: function_here another_function_here [...]`
 This command will have the game NOT call the functions you listed: only the script itself can call them. (You could also make those functions `local` instead)  
