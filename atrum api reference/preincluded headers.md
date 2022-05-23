@@ -24,7 +24,7 @@ Acts like `setValue` but on the note with the id `id`.
 ### `getUnote(id:Int, variable:String)`
 Acts like `getNote` but on the unspawned note with the id `id`.
 
-### `getUnote(id:Int, variable:String)`
+### `setUnote(id:Int, variable:String)`
 Acts like `setNote` but on the unspawned note with the id `id`.
 
 ## `"flicker"`
