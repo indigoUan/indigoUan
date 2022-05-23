@@ -11,6 +11,7 @@
 
 ## `#include: "header_here" "other_header_here" [...]`
 This command takes the script in the scripts folder that has the given name; these are called "headers".  
+[These are some pre-included headers](https://github.com/indigoUan/indigoUan/blob/main/atrum%20api%20reference/preincluded%20headers.md).
 You can load as many as you want.
 
 ## `#ignore_cin: function_here another_function_here [...]`
