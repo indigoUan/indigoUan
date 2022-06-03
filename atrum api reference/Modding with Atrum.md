@@ -27,7 +27,8 @@ The second one reads every option when it gets changed, and acts accordingly.
 When you hit a note and the game spawns a "Sick!!" or a "Good!" and so on... that's called a rating, and this engine has completely customizable rating timings.
 
 First you need to go to `assets/rating/` and open the file `milliseconds.json`.  
-In here you will see two variables: `default_set_used` and `sets`: `default_set_used` indicates which set in the `sets` variable should be used by the game.  
+In here you will see two variables: `default_set_used` and `sets`:  
+`default_set_used` indicates which set in the `sets` variable should be used by the game.  
 Each array in `default_set_used` indicates specific milliseconds for each rating (Marvelous, Sick, Good, Bad, Shit, Miss).
 
 ## Custom script on note hit
