@@ -1,5 +1,5 @@
 - Hi, I’m indigoUan
-- I’m currently learning FNF modding
+- I kill yourpants
 
 <!---
 indigoUan/indigoUan is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
