@@ -5,7 +5,7 @@ I attend a Health and Society highschool. I'm neither healthy nor social, but I'
 Here are the websites/HTML5 games I made so far:  
 - (game) [MetaTicTacToe, landscape](https://indigouan.github.io/MetaTTT/landscape)  
 - (game) [MetaTicTacToe, portrait](https://indigouan.github.io/MetaTTT/portrait)  
-- (site) [Super Mario 64 wall collision showcase](https://indigouan.github.io/sm64_collisions?hidecredit=false&bgcolor=484848&&initialspeed=12&stepsize=36)  
+- (site) [Super Mario 64 wall collision showcase](https://indigouan.github.io/sm64_collisions?hidecredit=false&bgcolor=484848&initialspeed=12&stepsize=36)  
 
 <!---
 indigoUan/indigoUan is a ✨special✨ repository because its `README.md` (this file) appears on your GitHub profile.
