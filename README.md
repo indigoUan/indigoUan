@@ -3,8 +3,7 @@ I've been coding with Haxe for roughly three or four years, and I'm currently st
 I attend a Health and Society highschool. I'm neither healthy nor social, but I'll take what I can.  
 
 Here are the websites/HTML5 games I made so far:  
-- (game) [MetaTicTacToe, landscape](https://indigouan.github.io/MetaTTT/landscape)  
-- (game) [MetaTicTacToe, portrait](https://indigouan.github.io/MetaTTT/portrait)  
+- (game) MetaTicTacToe: [landscape](https://indigouan.github.io/MetaTTT/landscape), [portrait](https://indigouan.github.io/MetaTTT/portrait)  
 - (website) [Super Mario 64 wall collision showcase](https://indigouan.github.io/sm64_collisions?hidecredit=false&bgcolor=484848&initialspeed=12&stepsize=36)  
 
 <!---
