@@ -1,5 +1,5 @@
 I’m Gioele Neri, or îndigoUán online. I live in Italy and I'm 18 years old.  
-I've been coding with Haxe for roughly three or four years, and I'm currently studying HTML, JavaScript, and CSS for potential front-end jobs in the future.  
+I've been coding with Haxe for roughly two or three years, and I'm currently studying HTML, JavaScript, and CSS for potential front-end jobs in the future.  
 I attend a Health and Society highschool. I'm neither healthy nor social, but I'll take what I can.  
 
 Here are the websites/HTML5 games I made so far:  
